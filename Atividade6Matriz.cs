@@ -1,6 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
-int[,] numeros = new int[2, 3];
+/* int[,] numeros = new int[2, 3];
 int maior = 0;
 
 for (int linha = 0; linha < 2; linha++)
@@ -23,4 +21,4 @@ for (int linha = 0; linha < 2; linha++)
         }
     }
 }
-Console.WriteLine($"O maior numero e: {maior}");
+Console.WriteLine($"O maior numero e: {maior}"); */
